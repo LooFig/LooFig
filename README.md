@@ -1,4 +1,4 @@
-# Hey, I'm Lorranny Figueredo 👋🏽
+# Hello, am Lorranny Figueredo 👋🏽
 
  ## 👩 Who am I? 
 
