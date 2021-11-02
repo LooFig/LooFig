@@ -1,6 +1,4 @@
-# Hello, am Lorranny Figueredo 👋🏽
-
- ## 👩 Who am I? 
+# Hello, am Lorranny Figueredo 👋🏽 👩 
 
 👩🏾‍🏫 Desenvolvedora de software.</br> 
 
