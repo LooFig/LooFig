@@ -2,7 +2,7 @@
 
  ## 👩 Who am I? 
 
-👩🏾‍🏫 Developer software.</br>
+👩🏾‍🏫 Desenvolvedora de software.</br> 
 
 📓 See also my <a href="" target="_blank">Portfolio</a> to know my projects.
  
