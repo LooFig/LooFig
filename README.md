@@ -4,7 +4,7 @@
 
 👩🏾‍🏫 Desenvolvedora de software.</br> 
 
-📓 See also my <a href="" target="_blank">Portfolio</a> to know my projects.
+📓 See also my <a href="" target="_blank" >Portfolio</a> to know my projects.
  
 
 ## 🖥️ Technologies
@@ -20,7 +20,7 @@
  
 <div> 
   <a href = "mailto:lorrannyfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lorrannyfigueredo/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lorrannyfigueredo/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 
