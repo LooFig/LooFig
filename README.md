@@ -1,9 +1,9 @@
-#Olá, sou Lorranny Figueredo 👋🏽 👩
+# Olá, sou Lorranny Figueredo 👋🏽 👩
 👩🏾‍🏫 Desenvolvedor de software.
 
 📓Veja também meu Portfólio para conhecer meus projetos.
 
-##🖥️ Tecnologias
+## 🖥️ Tecnologias
 
 
 <div style="display: inline_block"><br>
