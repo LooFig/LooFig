@@ -2,7 +2,7 @@
 
 👩🏾‍🏫 Desenvolvedora de software.</br> 
 
-📓 See also my <a href="" target="_blank" >Portfolio</a> to know my projects.
+📓 See also my <a href="https://loofig.github.io/lorranny.figueredo/" target="_blank" >Portfolio</a> to know my projects.
  
 
 ## 🖥️ Technologies
