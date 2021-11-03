@@ -1,6 +1,6 @@
 # Hello, am Lorranny Figueredo 👋🏽 👩 
 
-👩🏾‍🏫 Desenvolvedora de software.</br> 
+👩🏾‍🏫 Software Developer.</br> 
 
 📓 See also my <a href="https://loofig.github.io/lorranny.figueredo/" target="_blank" >Portfolio</a> to know my projects.
  
