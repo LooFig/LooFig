@@ -1,7 +1,7 @@
 # Olá, sou Lorranny Figueredo 👋🏽 👩
 👩🏾‍🏫 Desenvolvedora de software.
 
-📓Veja também meu <a  href="https://loofig.github.io/lorranny.figueredo/"  target="_blank">Portfólio</a> para conhecer meus projetos.
+📓Veja também meu <a  href="https://loofig.github.io/lorranny.figueredo/">Portfólio</a> para conhecer meus projetos.
 
 ## 🖥️ Tecnologias
 
